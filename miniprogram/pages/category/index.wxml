@@ -1,0 +1,15 @@
+<view class="weui-cells__title">分类</view>
+        <view class="weui-cells weui-cells_after-title">
+            <navigator url="../threekinds/novel/novel" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">小说</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">3本</view>
+            </navigator>
+            <navigator url="../threekinds/computer/computer" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">计算机</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">3本</view>
+            </navigator>
+            <navigator url="../threekinds/history/history" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+                <view class="weui-cell__bd">历史</view>
+                <view class="weui-cell__ft weui-cell__ft_in-access">3本</view>
+            </navigator>
+        </view>

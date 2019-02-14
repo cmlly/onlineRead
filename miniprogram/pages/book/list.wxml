@@ -1,0 +1,11 @@
+<view wx:for="{{list}}"  class='list'>
+    <view>
+    <image src='{{item.imgUrl}}'></image>
+    <view class='details'>
+    <text class='title'>{{item.title}}</text>
+    <text class='author'>{{item.author}}</text>
+    <text class='country'>{{item.publishInfo.country}}</text>
+    <text class='year'>{{item.publishInfo.year}}</text>
+    </view>
+    </view>
+</view>

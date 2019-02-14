@@ -1,0 +1,19 @@
+
+  <view>
+    <image class="logo" src="{{userInfo.avatarUrl}}"></image>
+  </view>
+
+        <view class="weui-cells weui-cells_after-title">
+            <view class="weui-cell">
+                <view class="weui-cell__bd">昵称</view>
+                <view class="weui-cell__ft">{{userInfo.nickName}}</view>
+            </view>
+            <view class="weui-cell">
+                <view class="weui-cell__bd">性别</view>
+                <view class="weui-cell__ft">男</view>
+            </view>
+        </view> 
+
+
+
+

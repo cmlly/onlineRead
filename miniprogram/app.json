@@ -1,0 +1,55 @@
+{
+    "cloud": true,
+    "pages": [
+        "pages/index/index",
+        "pages/userConsole/userConsole",
+        "pages/storageConsole/storageConsole",
+        "pages/databaseGuide/databaseGuide",
+        "pages/addFunction/addFunction",
+        "pages/deployFunctions/deployFunctions",
+        "pages/chooseLib/chooseLib",
+        "pages/category/index",
+        "pages/user/index",
+        "pages/book/list",
+        "pages/book/detail_shk",
+        "pages/threekinds/computer/computer",
+        "pages/threekinds/novel/novel",
+        "pages/threekinds/history/history",
+        "pages/book/detai_shk_text"        
+
+    ],
+    "window": {
+        "backgroundColor": "#F6F6F6",
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#F6F6F6",
+        "navigationBarTitleText": "在线阅读",
+        "navigationBarTextStyle": "black"
+    },
+    "tabBar": {
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "text": "首页",
+                "iconPath": "images/book_0.png",
+                "selectedIconPath": "images/book_1.png"
+            },
+            {
+                "pagePath": "pages/category/index",
+                "text": "分类",
+                "iconPath": "images/category_0.png",
+                "selectedIconPath": "images/category_1.png"
+            },
+            {
+                "pagePath": "pages/user/index",
+                "text": "我",
+                "iconPath": "images/my_0.png",
+                "selectedIconPath": "images/my_1.png"
+            }
+        ],
+        "color": "#5D5D5D",
+        "selectedColor": "#d81e06",
+        "borderStyle": "black",
+        "backgroundColor": "#fff",
+        "position": "bottom"
+    }
+}

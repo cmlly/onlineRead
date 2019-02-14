@@ -1,0 +1,28 @@
+<view class='img'>
+<image src='https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2504669013,2923264388&fm=58&bpow=933&bpoh=1388'></image>
+</view>
+        <view class="weui-cells weui-cells_after-title">
+            <view class="weui-cell">
+                <view class="weui-cell__bd">书名</view>
+                <view class="weui-cell__ft">肖申克的救赎</view>
+            </view>
+          
+        <view class="weui-cells weui-cells_after-title">
+            <view class="weui-cell">
+                <view class="weui-cell__bd">作者</view>
+                <view class="weui-cell__ft">斯蒂芬·金</view>
+            </view>
+        </view>
+       
+        <view class="weui-cells weui-cells_after-title">
+            <view class="weui-cell">
+                <view class="weui-cell__bd">价格</view>
+                <view class="weui-cell__ft">25</view>
+            </view>
+        </view>
+
+    <navigator url='./detai_shk_text'>
+         <button class="weui-btn" type="default" plain="true">免费试看</button>
+    </navigator>
+
+        </view>

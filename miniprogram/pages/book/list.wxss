@@ -1,0 +1,28 @@
+.list{
+    border-bottom:1px solid #ccc; 
+}
+image{
+    display: inline-block;
+    width: 20%;
+    height: 200rpx;
+}
+.details{
+    display: inline-block;
+    margin-left: 20rpx;
+}
+.title{
+    display: block;
+    font-size: 32rpx;
+}
+.author{
+    display: block;
+    font-size: 24rpx;
+    color: rgb(126, 109, 109);
+}
+.country,.year{
+    display: inline-block;
+    font-size: 20rpx;
+    border: 1px solid  #f00;
+    color: #f00;
+    margin-right: 20rpx;
+}

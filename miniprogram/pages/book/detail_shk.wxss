@@ -1,0 +1,9 @@
+.img{
+    text-align: center;
+}
+
+image{
+    width: 123px;
+    height: 140px;
+   
+}
